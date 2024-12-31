@@ -46,3 +46,6 @@ SdipSureLet/
  Niigata, 950-2181, JAPAN
  http://msiplab.eng.niigata-u.ac.jp/
 ```
+# References
+1. Jikai LI , Shogo MURAMATSU , “Structured Deep Image Prior for Image Denoising with Interscale SURE-LET“,  ITE Transactions on Media Technology and Applications, Dec 2024
+2. Jikai LI , Shogo MURAMATSU , “Inter-Scale Sure-Let Denoise with Structured Deep Image Prior: Interpretable Self-Supervised Learning“, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023
