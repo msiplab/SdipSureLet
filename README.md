@@ -12,5 +12,11 @@ SdipSureLet/
 ├── Itecode_SDIP_SURELET/                
 │   ├── examples/...        
 │   ├── saivdr/            
-│   │   ├── dcnn        
-        
+│   │   ├── dcnn
+
+# Requirements
+MATLAB R2023b (recommended)
+Signal Processing Toolbox
+Image Processing Toolbox
+Deep Learning Toolbox
+Optimization Toolbox   
