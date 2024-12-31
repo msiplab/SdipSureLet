@@ -7,11 +7,10 @@ This package is developed for:
 - **Development**
 - **Implementation**
 # Package structure
+```plaintext
 SdipSureLet/               
 ├── Itecode_SDIP_SURELET/                
 │   ├── examples/...        
 │   ├── saivdr/            
-│   │   ├── dcnn 
-│   │   ├──       
-│   │   └──     
-│   └── mex/             
+│   │   ├── dcnn        
+│   └── mex/          
