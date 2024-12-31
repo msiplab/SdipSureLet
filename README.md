@@ -15,8 +15,9 @@ SdipSureLet/
 │   │   ├── dcnn
 ```
 # Requirements
-MATLAB R2023b (recommended)
-Signal Processing Toolbox
-Image Processing Toolbox
-Deep Learning Toolbox
-Optimization Toolbox   
+- MATLAB R2023b (recommended)
+- Signal Processing Toolbox
+- Image Processing Toolbox
+- Deep Learning Toolbox
+- Optimization Toolbox
+
