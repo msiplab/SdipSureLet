@@ -26,8 +26,8 @@ SdipSureLet/
 # Brief Introduction
 
 1. **Change to the working directory**:  
-   Change the current directory to directory 'code' on MATLAB
-   >> cd Itecode_SDIP_SURELET
+   Change the current directory to directory 'code' on MATLAB```
+   >> cd Itecode_SDIP_SURELET ```
 2. **Set the path by using the following command:**
    >> setpath
 3. **Build MEX codes if you have MATLAB Coder.**
