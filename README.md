@@ -38,3 +38,11 @@ SdipSureLet/
 6. **Several example codes are found under the second layer directory 'examples' of this package. Change the current directory to one under the second layer directory 'examples' and executes an M-file of which name begins with 'main,' such as**
    ```matlab
    >> main_xxxx
+# Contact address
+```plaintext
+ Shogo MURAMATSU,
+ Faculty of Engineering, Niigata University,
+ 8050 2-no-cho Ikarashi, Nishi-ku,
+ Niigata, 950-2181, JAPAN
+ http://msiplab.eng.niigata-u.ac.jp/
+```
