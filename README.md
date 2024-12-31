@@ -20,4 +20,17 @@ SdipSureLet/
 - Image Processing Toolbox
 - Deep Learning Toolbox
 - Optimization Toolbox
+# Recommendation
+- MATLAB Coder
+- GPU Code
+# Brief Introduction
 
+1. **Change to the working directory**:  
+   Change the current directory to directory 'code' on MATLAB
+   >> cd Itecode_SDIP_SURELET
+2. **Set the path by using the following command:**
+   >> setpath
+3. **Build MEX codes if you have MATLAB Coder.**
+   >> mybuild
+4. **Several example codes are found under the second layer directory 'examples' of this package. Change the current directory to one under the second layer directory 'examples' and executes an M-file of which name begins with 'main,' such as**
+   >> main_xxxx
