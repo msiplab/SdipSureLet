@@ -1,0 +1,8 @@
+/codegen/
+/mexcodes/
+!/mexcodes/.emptyfolder
+matlab.mat
+*.asv
+examples/sgddesign/volumes/MRbrain.*
+examples/sgddesign/tiff/*.tif
+desktop.ini
