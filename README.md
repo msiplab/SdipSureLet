@@ -30,8 +30,11 @@ SdipSureLet/
    ```matlab
    >> cd Itecode_SDIP_SURELET 
 3. **Set the path by using the following command:**
+ ```matlab
    >> setpath
-4. **Build MEX codes if you have MATLAB Coder.**
+5. **Build MEX codes if you have MATLAB Coder.**
+```matlab
    >> mybuild
-5. **Several example codes are found under the second layer directory 'examples' of this package. Change the current directory to one under the second layer directory 'examples' and executes an M-file of which name begins with 'main,' such as**
+6. **Several example codes are found under the second layer directory 'examples' of this package. Change the current directory to one under the second layer directory 'examples' and executes an M-file of which name begins with 'main,' such as**
+```matlab
    >> main_xxxx
