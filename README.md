@@ -38,14 +38,15 @@ SdipSureLet/
 6. **Several example codes are found under the second layer directory 'examples' of this package. Change the current directory to one under the second layer directory 'examples' and executes an M-file of which name begins with 'main,' such as**
    ```matlab
    >> main_xxxx
-# Contact address
-```plaintext
- Shogo MURAMATSU,
- Faculty of Engineering, Niigata University,
+# Contact author
+
+- [Jikai LI](https://github.com/ljkyjj),
+ Niigata University,
  8050 2-no-cho Ikarashi, Nishi-ku,
- Niigata, 950-2181, JAPAN
- http://msiplab.eng.niigata-u.ac.jp/
-```
+ Niigata, 950-2181, JAPAN,
+ https://www.eng.niigata-u.ac.jp/~msiplab/
+
+
 # References
 1. Jikai LI , Shogo MURAMATSU , “Structured Deep Image Prior for Image Denoising with Interscale SURE-LET“,  ITE Transactions on Media Technology and Applications, Dec 2024
 2. Jikai LI , Shogo MURAMATSU , “Inter-Scale Sure-Let Denoise with Structured Deep Image Prior: Interpretable Self-Supervised Learning“, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023
