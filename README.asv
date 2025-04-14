@@ -32,7 +32,7 @@ SdipSureLet/
 3. **Set the path by using the following command:**
    ```matlab
    >> setup
-5. **Several example codes are found. Execute  M-files of which name begins with 'main,' such as**
+5. **Several example codes are found. Execute  M-file of which name begins with 'main,' such as**
    ```matlab
    >> main_xxxx
 # Contact author
